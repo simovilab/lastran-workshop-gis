@@ -1,0 +1,11 @@
+[project]
+name = "lastran-workshop-gis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "geopandas>=1.1.3",
+    "jupyterlab>=4.5.7",
+    "pandas>=3.0.3",
+]
