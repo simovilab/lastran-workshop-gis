@@ -11,5 +11,6 @@ dependencies = [
     "jupyterlab>=4.5.7",
     "mapclassify>=2.10.0",
     "matplotlib>=3.10.9",
+    "osmnx>=2.1.0",
     "pandas>=3.0.3",
 ]
